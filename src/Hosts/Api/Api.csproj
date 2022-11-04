@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Core\AnalysisT.Core.Infrastructure.Ioc\AnalysisT.Core.Infrastructure.Ioc.csproj" />
+    <ProjectReference Include="..\..\Core\AnalysisT.Core.Infrastructure.Ioc\CosmosDb.Core.Infrastructure.Ioc.csproj" />
   </ItemGroup>
 
     <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">

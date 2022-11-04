@@ -1,4 +1,4 @@
-﻿namespace AnalysisT.Shared.Domain.Entities
+﻿namespace CosmosDb.Shared.Domain.Entities
 {
     public abstract class BaseEntity
     {

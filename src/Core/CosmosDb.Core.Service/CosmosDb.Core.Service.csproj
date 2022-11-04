@@ -7,7 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AnalysisT.Core.Infrastructure\AnalysisT.Core.Infrastructure.csproj" />
+    <Folder Include="Endpoints\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AnalysisT.Core.Infrastructure.Ioc\CosmosDb.Core.Infrastructure.Ioc.csproj" />
   </ItemGroup>
 
 </Project>

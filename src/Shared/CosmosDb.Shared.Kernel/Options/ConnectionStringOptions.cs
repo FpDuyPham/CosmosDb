@@ -1,4 +1,4 @@
-﻿namespace AnalysisT.Shared.Kernel.Options
+﻿namespace CosmosDb.Shared.Kernel.Options
 {
     public class ConnectionStringOptions
     {

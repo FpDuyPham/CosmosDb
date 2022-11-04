@@ -5,23 +5,23 @@ VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{0542DC26-828C-4C8B-BA16-31AF4E0290F7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.Core.Domain", "src\Core\CosmosDb.Core.Domain\CosmosDb.Core.Domain.csproj", "{9A8FC179-FE7C-444C-A00E-34BE597CF770}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.Core.Domain", "src\Core\AnalysisT.Core.Domain\CosmosDb.Core.Domain.csproj", "{9A8FC179-FE7C-444C-A00E-34BE597CF770}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.Core.Application", "src\Core\CosmosDb.Core.Application\CosmosDb.Core.Application.csproj", "{8DD6A690-7957-4425-870F-2E484AAC84DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.Core.Application", "src\Core\AnalysisT.Core.Application\CosmosDb.Core.Application.csproj", "{8DD6A690-7957-4425-870F-2E484AAC84DD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.Core.Infrastructure", "src\Core\CosmosDb.Core.Infrastructure\CosmosDb.Core.Infrastructure.csproj", "{5261E256-27A2-4196-A07B-89DD200E98A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.Core.Infrastructure", "src\Core\AnalysisT.Core.Infrastructure\CosmosDb.Core.Infrastructure.csproj", "{5261E256-27A2-4196-A07B-89DD200E98A7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{21E0C575-A7BA-4718-A459-8569F52F253D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.Shared.Domain", "src\Shared\CosmosDb.Shared.Domain\CosmosDb.Shared.Domain.csproj", "{B6254A7A-C74A-461E-B160-10B4FCF24F0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.Shared.Domain", "src\Shared\AnalysisT.Shared.Domain\CosmosDb.Shared.Domain.csproj", "{B6254A7A-C74A-461E-B160-10B4FCF24F0B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.Shared.Kernel", "src\Shared\CosmosDb.Shared.Kernel\CosmosDb.Shared.Kernel.csproj", "{410850C9-5630-4CD7-820D-A2D1C5A8BCA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.Shared.Kernel", "src\Shared\AnalysisT.Shared.Kernel\CosmosDb.Shared.Kernel.csproj", "{410850C9-5630-4CD7-820D-A2D1C5A8BCA5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.Core.Infrastructure.Ioc", "src\Core\CosmosDb.Core.Infrastructure.Ioc\CosmosDb.Core.Infrastructure.Ioc.csproj", "{D245C482-9270-422C-AB7E-67013C7DE946}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.Core.Infrastructure.Ioc", "src\Core\AnalysisT.Core.Infrastructure.Ioc\CosmosDb.Core.Infrastructure.Ioc.csproj", "{D245C482-9270-422C-AB7E-67013C7DE946}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.Core.Service", "src\Core\CosmosDb.Core.Service\CosmosDb.Core.Service.csproj", "{78F72292-05EC-461B-A300-2EAA71C59340}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.Core.Service", "src\Core\AnalysisT.Core.Service\CosmosDb.Core.Service.csproj", "{78F72292-05EC-461B-A300-2EAA71C59340}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.Core.Infrastructure.SeedData", "src\Core\CosmosDb.Core.Infrastructure.SeedData\CosmosDb.Core.Infrastructure.SeedData.csproj", "{4812F3E8-2CD6-4183-BCA3-75AFF4E72C88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDb.Core.Infrastructure.SeedData", "src\Core\AnalysisT.Core.Infrastructure.SeedData\CosmosDb.Core.Infrastructure.SeedData.csproj", "{4812F3E8-2CD6-4183-BCA3-75AFF4E72C88}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hosts", "Hosts", "{41E336EE-A88C-42FB-B918-B3D19CE50862}"
 EndProject
