@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AnalysisT.Core.Application\CosmosDb.Core.Application.csproj" />
+    <ProjectReference Include="..\CosmosDb.Core.Application\CosmosDb.Core.Application.csproj" />
   </ItemGroup>
 
 </Project>

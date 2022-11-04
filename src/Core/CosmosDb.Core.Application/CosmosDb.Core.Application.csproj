@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AnalysisT.Core.Domain\CosmosDb.Core.Domain.csproj" />
+    <ProjectReference Include="..\CosmosDb.Core.Domain\CosmosDb.Core.Domain.csproj" />
   </ItemGroup>
 
 </Project>

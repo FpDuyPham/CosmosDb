@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "AnalysisT": {
+    "CosmosDb": {
       "commandName": "Project",
       "launchBrowser": true,
       "applicationUrl": "https://localhost:7194;http://localhost:5194",

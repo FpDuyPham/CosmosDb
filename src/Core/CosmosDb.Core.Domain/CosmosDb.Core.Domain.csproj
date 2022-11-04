@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Shared\AnalysisT.Shared.Domain\CosmosDb.Shared.Domain.csproj" />
+    <ProjectReference Include="..\..\Shared\CosmosDb.Shared.Domain\CosmosDb.Shared.Domain.csproj" />
   </ItemGroup>
 
 </Project>
